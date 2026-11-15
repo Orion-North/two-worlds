@@ -1,4 +1,4 @@
-# Two Worlds
+# NASA Spaceapps 2026
 
 A minimal launcher for two Space Apps games:
 
